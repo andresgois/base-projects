@@ -1,0 +1,17 @@
+{
+  "name": "base-project",
+  "version": "0.0.0",
+  "description": "projeto com configuações de eslint, prettier, tsc e etc...",
+  "main": "server.ts",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts",
+    "test": "test"
+  },
+  "keywords": [
+    "eslint",
+    "prettier",
+    "typescript"
+  ],
+  "author": "Andre Gois",
+  "license": "MIT"
+}
