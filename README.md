@@ -53,3 +53,9 @@ npm install --save-dev eslint@6 eslint-plugin-standard@4 eslint-plugin-promise@4
 
 [Documentação TS](https://www.typescriptlang.org/docs/handbook/intro.html)
 [tsconfig]()
+
+- tsnd --respawn --clear --transpile-only --ignore-watch nod_modules src/shared/infra/http/server.ts
+
+## Roda Aplicação
+
+`npm run dev`
